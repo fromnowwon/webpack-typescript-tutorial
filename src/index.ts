@@ -1,4 +1,5 @@
 import { formData } from "./forms";
+import './style.scss'
 
 const form = document.querySelector('form')!;
 
